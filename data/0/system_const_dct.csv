@@ -1,0 +1,5 @@
+dt,0.01
+num_steps,10000
+sigma_z,1
+initial_xyzs,"(0.0, 1.0, 1.05)"
+k,30
